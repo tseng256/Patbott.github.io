@@ -16,3 +16,10 @@ body {
   height: 325px;
   padding: 20px 20px;
 }
+
+.VR_viewer {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
